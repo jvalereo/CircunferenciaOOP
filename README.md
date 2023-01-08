@@ -10,7 +10,7 @@
 # Tela Principal do Projeto
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="hhttps://user-images.githubusercontent.com/25933386/211208281-a86a70c6-64cb-45c0-92f3-cdc34dc2bce9.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211208379-b81a321c-582e-4452-9bbd-3028807f66a3.JPG"></img>
 </a>
 
 # Classe Dados do Projeto
